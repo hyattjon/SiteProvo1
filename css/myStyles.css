@@ -1,0 +1,23 @@
+.profilepicsize
+{
+    width: 210px;
+    height: auto;
+}
+
+.clocksize
+{
+    width: 100%;
+    height: auto;
+}
+
+.roundededges
+{
+    border-radius: 25px;
+}
+
+.thiscouldbeyou
+{
+    height: 350px;
+    width: 500px;
+    object-fit: cover;
+}
